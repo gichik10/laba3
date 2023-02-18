@@ -17,4 +17,5 @@ int main()
 	} 
 	while (i < 10);
 	cout << endl;
+	return 0;
 }
