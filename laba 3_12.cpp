@@ -9,6 +9,7 @@ int main()
         i++;
     } while (i <= 100);
     std::cout << sum;
+    return 0;
 
 }
 
