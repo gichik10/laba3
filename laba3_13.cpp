@@ -20,4 +20,5 @@ int main()
         cout << "не простое число";
         else 
         cout << "простое число";
+    return 0;
 }
