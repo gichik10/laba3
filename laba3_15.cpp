@@ -14,4 +14,5 @@ int main()
 	}
 	while (numb >= i);
 	cout << "факториал числа:" << res << endl;
+	return 0;
 }
