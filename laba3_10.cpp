@@ -11,4 +11,5 @@ int main()
         res = res * i;
     }
     cout<< "факториал:" << res;
+    return 0;
 }
