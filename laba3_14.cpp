@@ -13,4 +13,5 @@ int main()
         cout << numb << "*" << i << "=" << r << endl;
     }
     while (i < 10);
+    return 0;
 }
